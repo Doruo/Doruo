@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ✨ Marc Haye ✨
-- 👀 I’m interested in gaming and music.
+- 👀 I’m interested in programming, gaming and music.
 - 🌱 I’m currently studying computer science at University of Montpellier.
 - 📫 You can reach me by my mail: marc.antonio.haye.pro@gmail.com.
 
